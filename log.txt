@@ -1,0 +1,39 @@
+============================================
+PLATFORM_VERSION_CODENAME=REL
+PLATFORM_VERSION=5.0.2
+TARGET_PRODUCT=hi6210sft
+TARGET_BUILD_VARIANT=eng
+TARGET_BUILD_TYPE=release
+TARGET_BUILD_APPS=
+TARGET_ARCH=arm64
+TARGET_ARCH_VARIANT=armv8-a
+TARGET_CPU_VARIANT=generic
+TARGET_2ND_ARCH=arm
+TARGET_2ND_ARCH_VARIANT=armv7-a-neon
+TARGET_2ND_CPU_VARIANT=cortex-a15
+HOST_ARCH=x86_64
+HOST_OS=linux
+HOST_OS_EXTRA=Linux-3.8.0-29-generic-x86_64-with-Ubuntu-12.04-precise
+HOST_BUILD_TYPE=release
+BUILD_ID=LRX22G
+OUT_DIR=out
+============================================
+No private recovery resources for TARGET_DEVICE hi6210sft
+4.4 boot_jars :
+
+make: Entering directory `/disk4/xwx271409/myview/code'
+target  C: libavutil <= vendor/opensource/ffmpeg/libavutil/utils.c
+target  C: libavutil <= vendor/opensource/ffmpeg/libavutil/xtea.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/4xm.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/aacdec.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/ac3dec.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/act.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/adp.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/adxdec.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/aea.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/afc.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/aiffdec.c
+target  C: libavformat <= vendor/opensource/ffmpeg/libavformat/allformats.c
+
+#### make failed to build some targets (2 seconds) ####
+
